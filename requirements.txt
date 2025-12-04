@@ -1,2 +1,0 @@
-aiogram==3.13.1
-uvicorn==0.32.0
